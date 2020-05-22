@@ -1,0 +1,43 @@
+.sidebar{
+    float: left;
+    width: 266px;
+    height: 800px;
+    background-color: white;
+    border-right: 1px solid #cccccc;
+}
+.sidebar embed{
+    display: block;
+    width: 220px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.content{
+    float: left;
+    width: 600px;
+    height: 800px;
+    background-color: white;
+}
+.content h1{
+    background-image: url(../images/aboutme.gif);
+    background-repeat: no-repeat;
+    width: 127px;
+    height: 26px;
+    text-indent: -9999px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.content img{
+    display:block;
+    width: 529px;
+    height: 185px;
+}
+.content p{
+    width: 529px;
+    margin-left: 10px;
+    text-indent: 24px;
+    line-height: 180%;
+}
+.content span{
+    color: blue;
+}

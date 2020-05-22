@@ -1,0 +1,46 @@
+.sidebar{
+    float: left;
+    width: 266px;
+    height: 800px;
+    background-color: white;
+    border-right: 1px solid #cccccc;
+}
+.sidebar embed{
+    display: block;
+    width: 220px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.content{
+    float: left;
+    width: 600px;
+    height: 800px;
+    background-color: white;
+}
+.content h1{
+    background-image: url(../images/news.gif);
+    background-repeat: no-repeat;
+    width: 123px;
+    height: 27px;
+    text-indent: -9999px;
+    margin-top: 23px;
+    margin-left: 15px;
+}
+.content ul{
+    list-style-type: none;
+    line-height: 180%;
+    text-indent: 20px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.content ul li{
+    background: url(../images/ico.gif) no-repeat left center;
+}
+.content ul li span{
+    color: blue;
+}
+.content p{
+    margin-top: 30px;
+    text-align: center;
+}

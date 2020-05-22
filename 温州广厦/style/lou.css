@@ -1,0 +1,48 @@
+.sidebar{
+    float: left;
+    width: 266px;
+    height: 800px;
+    background-color: white;
+    border-right: 1px solid #cccccc;
+}
+.sidebar embed{
+    display: block;
+    width: 220px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.content{
+    float: left;
+    width: 600px;
+    height: 800px;
+    background-color: white;
+}
+.content h1{
+    background-image: url(../images/lou.gif);
+    background-repeat: no-repeat;
+    width: 127px;
+    height: 26px;
+    text-indent: -9999px;
+    margin-top: 23px;
+    margin-left: 15px;
+}
+.content div{
+    float: left;
+    width: 280px;
+    height: 200px;
+    background: white;
+    margin: 10px;
+    text-align: center;
+}
+.content div p{
+    background-color: #eeeeee;
+    border-bottom: 1px solid #cc0000;
+    line-height: 30px;
+    width: 240px;
+    margin-left: 20px;
+}
+.content .last_p{
+    clear: both;
+    text-align: center;
+}

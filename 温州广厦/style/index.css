@@ -1,0 +1,159 @@
+.sidebar{
+    float: left;
+    width: 251px;
+    height: 490px;
+    background-color: white;
+    background-image: url(../images/weline.gif);
+    background-position: right center;
+    background-repeat: no-repeat;
+}
+.sidebar h1{
+    text-indent: -9999px;
+    background-image: url(../images/wel.gif);
+    background-repeat: no-repeat;
+    width: 123px;
+    height: 35px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.sidebar img.wel2{
+    display: block;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.sidebar ul{
+    line-height: 180%;
+    font-size: 100%;
+    color: #444444;
+    list-style-type: none;
+    text-indent: 20px;
+}
+.sidebar ul li a.more{
+    display: inline-block;
+    background-image: url(../images/more.gif);
+    background-repeat: no-repeat;
+    background-position: right center;
+    width: 65px;
+    height: 11px;
+}
+.sidebar ul .line{
+    border-bottom: 1px solid #cccccc;
+    margin: 10px 35px 5px 20px;
+}
+.news{
+    float: left;
+    width: 313px;
+    height: 300px;
+    background-color: #ffffff;
+    background-image: url(../images/weline.gif);
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: 1px 200px;
+}
+.news h1{
+    text-indent: -9999px;
+    background-image: url(../images/news.gif);
+    background-repeat: no-repeat;
+    width: 123px;
+    height: 27px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.news ul{
+    line-height: 160%;
+    font-size: 100%;
+    color: #444444;
+    list-style-type: none;
+    text-indent: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.news ul .date{
+    color: orange;
+    background-image: url(../images/ico.gif);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+.news ul li a.more{
+    display: inline-block;
+    background-image: url(../images/more.gif);
+    background-repeat: no-repeat;
+    background-position: right center;
+    width: 65px;
+    height: 11px;
+}
+.about{
+    float: left;
+    width: 303px;
+    height: 300px;
+    background-color: #ffffff;
+}
+.about h1{
+    text-indent: -9999px;
+    background-image: url(../images/aboutme.gif);
+    background-repeat: no-repeat;
+    width: 127px;
+    height: 26px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.about img.aboutme{
+    display: block;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    height: 80px;
+    width: 240px;
+}
+.about p{
+    width: 235px;
+    margin-left: 23px;
+    line-height: 160%;
+    font-size: #444444;
+}
+.about a{
+    display: inline-block;
+    background-image: url(../images/more.gif);
+    width: 65px;
+    height: 11px;
+    margin-top: 5px;
+    margin-left: 22px;
+}
+
+.estate{
+    float: left;
+    width: 616px;
+    height: 190px;
+    background-color: white;
+}
+.estate .escon{
+    width: 550px;
+    margin: auto;
+    border-top: #cccccc solid thin;
+}
+.estate .escon img{
+    float: left;
+    margin-top: 18px;
+}
+.estate .escon ul{
+    float: left;
+    width: 280px;
+    list-style-type: none;
+    margin-top: 20px;
+    margin-left: 15px;
+    line-height: 160%;
+}
+.estate .escon ul li.newestate_pic{
+    background-image: url(../images/estate1.gif);
+    background-repeat: no-repeat;
+    width: 117px;
+    height: 30px;    
+}
+.estate .escon ul li a{
+    display: inline-block;
+    background-image: url(../images/more.gif);
+    background-repeat: no-repeat;
+    background-position: right center;
+    width: 65px;
+    height: 11px;
+    margin-top: 10px;
+}

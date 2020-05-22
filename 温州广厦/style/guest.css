@@ -1,0 +1,52 @@
+.sidebar{
+    float: left;
+    width: 266px;
+    height: 800px;
+    background-color: white;
+    border-right: 1px solid #cccccc;
+}
+.sidebar embed{
+    display: block;
+    width: 220px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.content{
+    float: left;
+    width: 600px;
+    height: 800px;
+    background-color: white;
+}
+.content h1{
+    background-image: url(../images/Message.gif);
+    background-repeat: no-repeat;
+    width: 127px;
+    height: 26px;
+    text-indent: -9999px;
+    margin-top: 23px;
+    margin-left: 15px;
+}
+.content input{
+    height: 18px;
+}
+
+.content p{
+    margin-left: 20px;
+}
+.content p.yourname{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.content textarea{
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 210px;
+    height: 120px;
+}
+.content .submit{
+    color: #555555;
+    font-size: 120%;
+    height: 25px;
+    width: 80px;
+}
